@@ -126,6 +126,9 @@ public class PlayerMovement : MonoBehaviour
 }
 
 
+Then you should be left with this:
+
+https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/447590c9-d72f-4325-bd78-63e7d116a1e9
 
 
    
