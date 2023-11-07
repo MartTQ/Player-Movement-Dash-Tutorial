@@ -23,7 +23,7 @@ This is how I set up my scene for this tutorial:
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/253cf11c-39cf-45f5-b5b5-2640d2d88f23)
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/eeada807-8932-4811-a5d9-53da0dba6fb1)
 
-3. Add a Trail renderer to our player and change the width, time and colour but this is completely up to you.
+3. Add a Trail renderer to our player and change the width, time and colour but this is completely up to you. (this gives our player a trail whne dashing).
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/c6edb0e4-26b3-4e92-93b5-876395bab3f2)
 
 4. Add a script to our player and name it PlayerMovement
