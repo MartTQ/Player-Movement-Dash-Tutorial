@@ -14,7 +14,9 @@ This is how I set up my scene for this tutorial:
 
 2. Create another empty game object this time name it 'Player'. Add a player sprite and link it as a sqaure (for this case i used a circle sprite from unity as my player)
 
-   Make sure to add a Sprite Renderer, Rigidboy 2D and Box Collider 2D to this. ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/5f143be2-d537-417a-a0d2-a2a2264c151d)
+   Make sure to add a Sprite Renderer, Rigidboy 2D and Box Collider 2D to this.
+
+   ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/5f143be2-d537-417a-a0d2-a2a2264c151d)
 
    Add a ground check and position it underneather our player sprite.
 
@@ -23,10 +25,10 @@ This is how I set up my scene for this tutorial:
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/253cf11c-39cf-45f5-b5b5-2640d2d88f23)
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/eeada807-8932-4811-a5d9-53da0dba6fb1)
 
-3. Add a Trail renderer to our player and change the width, time and colour but this is completely up to you. (this gives our player a trail whne dashing).
+4. Add a Trail renderer to our player and change the width, time and colour but this is completely up to you. (this gives our player a trail whne dashing).
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/c6edb0e4-26b3-4e92-93b5-876395bab3f2)
 
-4. Add a script to our player and name it PlayerMovement
+5. Add a script to our player and name it PlayerMovement
 
    ![image](https://github.com/MartTQ/Player-Movement-Dash-Tutorial/assets/123513842/f67107e2-298e-4841-8661-6c5059a31729)
 
